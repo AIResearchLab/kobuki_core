@@ -2,12 +2,11 @@
 
 ![Kobuki Logo](resources/kobuki.png)
 
-This repository is an extention of the original [repository](https://github.com/kobuki-base/kobuki_core) that combines all active public forks.
-
-
 ----
 
 The **Kobuki Core** stack consists of c++ libraries and utilities for working with a [Kobuki Robot](http:/kobuki.yujinrobot.com).
+
+This repository is an extention of the original [repository](https://github.com/kobuki-base/kobuki_core) that combines all active public forks.
 
 ----
 
